@@ -6,5 +6,4 @@
    Sekcje:  Logo/Prezentacja sklepu (+ historia )/Oferta/Galeria/Kontakt 
 
    Projekt : https://www.figma.com/file/IcZv3mrhnGbO2jDHvjzr9L/Projekt?node-id=0%3A1  
-   Link do strony : https://bambinosklep.000webhostapp.com/
-
+   Link do strony https://sklepbambino.000webhostapp.com/ 
